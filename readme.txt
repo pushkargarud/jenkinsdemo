@@ -1,1 +1,1 @@
-this is a dample file created for jenkins demo 
+this is a sample file created for jenkins demo 
